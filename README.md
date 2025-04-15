@@ -8,6 +8,7 @@ I am an aspiring cybersecurity professional with a profound interest in technolo
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
+
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
@@ -61,8 +62,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Securing Network Devices using Cisco Packet Tracer | Coursera Project Network
+- Secure Network Devices using Cisco Packet Tracer | Coursera Project Network
 - Linux CLI
+- Project 3
 
 
  
