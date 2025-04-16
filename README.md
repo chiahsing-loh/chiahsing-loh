@@ -1,9 +1,9 @@
-# Hello, I'm Chia Hsing
+# Hello, I'm Chia Hsing!
 <a href="https://www.linkedin.com/in/chiahsing/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am an aspiring cybersecurity professional with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity enthusiast sharing about my journey and learnings in cybersecurity.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
