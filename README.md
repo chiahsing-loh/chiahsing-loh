@@ -28,7 +28,9 @@ With over 10 years of experience as an equity execution trader, I bring a keen a
 <div>
    <img src="https://img.shields.io/badge/-Cisco Packet Tracer%20-4D4D4D?&style=for-the-badge&logo=CISCO&logoColor=white" /> 
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+   
 </div>
 </br>
 
