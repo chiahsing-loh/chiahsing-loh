@@ -43,7 +43,7 @@ With over 10 years of experience as an equity execution trader, I bring a keen a
 <img src="https://img.shields.io/badge/-Microsoft%20Certified%20SC--900-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Networking Basics%20-4D4D4D?&style=for-the-badge&logo=CISCO&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%20Unhatch-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
-
+<a href="https://www.credly.com/badges/52738e8d-7007-4687-9df0-2d83151c0a3e/public_url"><img src="https://img.shields.io/badge/-Linux%20Unhatch-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /></a>
 </div>
 </br>
 
