@@ -12,7 +12,7 @@ With over 10 years of experience as an equity execution trader, I bring a keen a
 </br></br></br>
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and the associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
