@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/chiahsing/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-As an aspiring cybersecurity professional, I'm eager to share my learning journey and hands-on projects, showcasing my growth in this dynamic field. </br>
+As an aspiring cybersecurity professional, I am eager to share my ongoing learning journey and hands-on projects that document my steady progress and commitment in this dynamic field. </br>
 </br>
 
 
