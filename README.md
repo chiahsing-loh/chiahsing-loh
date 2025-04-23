@@ -8,7 +8,7 @@ As an aspiring cybersecurity professional, I'm eager to share my learning journe
 
 ## Objective
 
-With over 10 years of experience as an equity execution trader, I bring a keen analytical mindset and attention to detail to cybersecurity. Driven by a passion for safeguarding digital assets, I am dedicated to continuous learning and hands-on projects to contribute effectively to this dynamic field.
+Drawing on over a decade of experience as an equity execution trader, I have honed a rigorous analytical mindset and an unwavering attention to detail—assets I now apply to the complex challenges of cybersecurity. My passion for protecting digital assets fuels a commitment to continuous learning and hands-on projects, empowering me to deliver innovative solutions in an ever-evolving digital landscape.
 </br></br></br>
 
 ## Skills
@@ -16,7 +16,7 @@ With over 10 years of experience as an equity execution trader, I bring a keen a
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Security, Authentication, DHCP Implementation | <a href="https://github.com/chiahsing-loh/Secure-Network-Devices">Secure Network Devices</a>|
+| Network Security, Authentication, DHCP Implementation |<a href="https://github.com/chiahsing-loh/Securing-Network-Devices/blob/main/README.md">Securing Network Devices</a> |
 
 
 </br>
@@ -50,10 +50,8 @@ With over 10 years of experience as an equity execution trader, I bring a keen a
 
 ## Projects
 
-- <a href="https://github.com/chiahsing-loh/Secure-Network-Devices">Secure Network Devices</a>
 - <a href="https://github.com/chiahsing-loh/Securing-Network-Devices/blob/main/README.md">Securing Network Devices</a>
-- Project 2
-- Project 3
+
 
 
  
