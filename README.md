@@ -51,6 +51,7 @@ With over 10 years of experience as an equity execution trader, I bring a keen a
 ## Projects
 
 - <a href="https://github.com/chiahsing-loh/Secure-Network-Devices">Secure Network Devices</a>
+- <a href="https://github.com/chiahsing-loh/Securing-Network-Devices/blob/main/README.md">Securing Network Devices</a>
 - Project 2
 - Project 3
 
