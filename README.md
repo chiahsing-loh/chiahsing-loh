@@ -12,13 +12,12 @@ With over 10 years of experience as an equity execution trader, I bring a keen a
 </br></br></br>
 
 ## Skills
-[Provide skills and the associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skills                                         | Associated Project         |
+
+| Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Security and Implementation           | <a href="https://github.com/chiahsing-loh/Secure-Network-Devices">Secure Network Devices</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Security, Authentication, DHCP Implementation | <a href="https://github.com/chiahsing-loh/Secure-Network-Devices">Secure Network Devices</a>|
+
 
 </br>
 
