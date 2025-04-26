@@ -16,13 +16,13 @@ Drawing on over a decade of experience as an equity execution trader, I have hon
 
 | Skills                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Linux system interaction, permission, file and directory management, search and analysis |<a href="https://github.com/chiahsing-loh/Command-Line-in-Linux/blob/main/README.md">Command Line in Linux</a> |
 | Network Security, Authentication, DHCP Implementation |<a href="https://github.com/chiahsing-loh/Securing-Network-Devices/blob/main/README.md">Securing Network Devices</a> |
-
 
 </br>
 
 
-## Tech Stack
+## Technologies Stack
 
 <div>
    <img src="https://img.shields.io/badge/-Cisco Packet Tracer%20-4D4D4D?&style=for-the-badge&logo=CISCO&logoColor=white" /> 
@@ -50,8 +50,8 @@ Drawing on over a decade of experience as an equity execution trader, I have hon
 
 ## Projects
 
+- <a href="https://github.com/chiahsing-loh/Command-Line-in-Linux/blob/main/README.md">Command Line in Linux</a>
 - <a href="https://github.com/chiahsing-loh/Securing-Network-Devices/blob/main/README.md">Securing Network Devices</a>
-
 
 
  
